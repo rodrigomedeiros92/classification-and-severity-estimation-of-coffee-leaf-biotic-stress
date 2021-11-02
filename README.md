@@ -1,4 +1,4 @@
-# Projeto com pesos e resultados da arquitetura Resnet 18 e 34, como há limite de armazenamento é necesário retreinar e retestar os modelos automaticamente com o arquivo script.py
+# Projeto com pesos e resultados da arquitetura Resnet 18 e 34, como há limite de armazenamento é necessário retreinar e retestar os modelos automaticamente com o arquivo script.py
 
 
 Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress
